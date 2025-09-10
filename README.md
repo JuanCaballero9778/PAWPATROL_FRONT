@@ -16,3 +16,11 @@
 ![alt text](docs/imagenes/PruebaEjecucion.png) 
 
 ---
+
+## Prototipo en Figma (Login y dashboard):
+
+![alt text](docs/imagenes/Login.png)
+
+![alt text](docs/imagenes/Contraseña.png)
+
+![alt text](docs/imagenes/Dashboard.png)
