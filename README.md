@@ -77,7 +77,7 @@ En el horario se podran ver lo siguiente:
 
 El estudiante puede usar su carnet para entrar a la universidad
 
-- Estan sus datos y se encuenta activo su carnet
+- Estan sus datos y si esta activo su carnet
 
 ![alt text](docs/imagenes/carnet.png)
 
@@ -111,15 +111,47 @@ en el cuál el estudiante podra revisar su(s):
 
 ---
 
+### **Solicitudes:**
+
+Al darle a solicitud en el dashboard nos llevara a la creación de solicitudes
+en el cuál el estudiante podra:
+
+- Crear solicitudes
+- Elegir materia y grupo
+- Consultar sugerencias por parte del sistema para realizar cambios
+- Consultar observaciones adicionales 
+
+![alt text](docs/imagenes/solicitud.png)
+
+
+---
+
+- *El estudiante podra consultar el estado de sus solicitudes de manera que:*
+
+  - Primero salen las solicitudes aprobadas en verde 🟢
+  - Segundo salen las solicitudes de revisión en amarillo 🟡
+  - Tercero salen las solicitudes pendientes en azul 🔵
+  - Cuarto salen las solicitudes en rechazadas 🔴
+
+
+![alt text](docs/imagenes/historial_solicitudes.png)
+
+---
+
 ### EPIC - FEATURE - UH
 
 **Tarea de Figma finalizada Login y DashBoard:**
 
 ![alt text](docs/imagenes/logindashfinalizados.png)
 
-**Tarea de Figma finalizada Login y DashBoard**
+**Tarea de Figma finalizada Horario y Semaforo**
 
 ![alt text](docs/imagenes/horario_y_semaforo.png)
+
+**Tarea de Figma finalizada MockUp Solicitudes**
+![alt text](docs/imagenes/creacion_solicitud.png)
+
+
 
 
 
