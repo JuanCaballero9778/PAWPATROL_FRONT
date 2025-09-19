@@ -138,6 +138,10 @@ en el cuál el estudiante podra:
 
 ---
 
+##### Link evidencia Figma:  https://www.figma.com/design/sDfQYNbAqlXn4blPiYqOxL/Mock-SIRHA?node-id=0-1&p=f&t=DWceu8mj7m3adYFg-0
+
+---
+
 ### EPIC - FEATURE - UH
 
 **Tarea de Figma finalizada Login y DashBoard:**
