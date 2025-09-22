@@ -35,12 +35,18 @@ recuperarla con el codigo enviado a su correo institucional
 
 ---
 
+Confirmar enlace enviado al correo:
+
+![alt text](docs/imagenes/confirmar.png)
+
+
+---
+
 ### **DashBoard:**
 
 Cuando se haya iniciando sesion nos llevara al dashboard en el cual
 el usario de la escuela puede:
 
-- Usar su carnet para ingresar a la universidad
 - Consultar sus calificaciones -> semaforo plan de estudios
 - Consultar su horario de clases
 - Realizar solicitudes para asignaturas y grupo
@@ -63,25 +69,9 @@ En el horario se podran ver lo siguiente:
 - El aula en la cual se llevara a cabo
 
 
-*Si el estudiante o profesor desea saber mas detalles de la clase nos lleva a:*
+![alt text](docs/imagenes/horario.png)
 
 
-![alt text](docs/imagenes/detalleClase.png)
-
-
-- Aqui podremos consultar lo mismo pero con el nombre del profesor y la fecha y hora
-
----
-
-### **Carnet:**
-
-El estudiante puede usar su carnet para entrar a la universidad
-
-- Estan sus datos y si esta activo su carnet
-
-![alt text](docs/imagenes/carnet.png)
-
----
 
 ### **Semaforo / Historial de  Materias:**
 
@@ -94,7 +84,7 @@ en el cuál el estudiante podra revisar su(s):
 - Materias cursadas en verde 🟢
 
 
-![alt text](docs/imagenes/aprobado.png)
+![alt text](docs/imagenes/aprobadas.png)
 
 
 ---
@@ -121,8 +111,22 @@ en el cuál el estudiante podra:
 - Consultar sugerencias por parte del sistema para realizar cambios
 - Consultar observaciones adicionales 
 
-![alt text](docs/imagenes/solicitud.png)
+![alt text](docs/imagenes/solicitudes.png)
 
+---
+
+Luego de que usuario al elegir la materia que quiere cambiar o 
+tomar una sugerencia puede darle a cancelar y generar, al darle generar lo llevara a:
+
+![alt text](docs/imagenes/aceptar.png)
+
+- Aqui decidira si aceptar su solicitud de cambio o cancelarda 
+
+---
+
+Si opta por aceptarla se le avisara sobre el estado de su solicitud:
+
+![alt text](docs/imagenes/acepta_solicitud.png)
 
 ---
 
@@ -150,6 +154,11 @@ en el cuál el estudiante podra:
 
 **Tarea de Figma finalizada MockUp Solicitudes**
 ![alt text](docs/imagenes/creacion_solicitud.png)
+
+**Tarea Refactorización de los MockUps:**
+![alt text](docs/imagenes/deuda1.png)
+
+
 
 
 
