@@ -11,6 +11,10 @@
 `feature/proyecto_JuanCaballero_OscarSanchez_DiegoChavarro_RobinsonPortela_SantiagoPalacios_2025-2`
 
 ---
+
+## SEMANA 4 - 6
+
+---
 ## Pruebas de ejecución (Proyecto).
 
 ![alt text](docs/imagenes/PruebaEjecucion.png) 
@@ -42,7 +46,7 @@ Confirmar enlace enviado al correo:
 
 ---
 
-### **DashBoard:**
+### **DashBoard Navegación del estudiante:**
 
 Cuando se haya iniciando sesion nos llevara al dashboard en el cual
 el usario de la escuela puede:
@@ -60,6 +64,14 @@ el usario de la escuela puede:
 
 ---
 
+### **Fechas inscripciones**
+
+Se podra consultar el horario de fechas de incripciones:
+
+![alt text](docs/imagenes/inscripciones.png)
+
+---
+
 ### **Horario**
 
 En el horario se podran ver lo siguiente:
@@ -69,8 +81,25 @@ En el horario se podran ver lo siguiente:
 - El aula en la cual se llevara a cabo
 
 
-![alt text](docs/imagenes/horario.png)
+![alt text](docs/imagenes/Horario.png)
 
+
+---
+
+### **Horarios Anteriores**
+
+El estudiante podra consultar lo mismo que el horario normal pero
+podra ver su horario de cualquier semestre antes cursado
+
+![alt text](docs/imagenes/Horario2.png)
+
+y el horario con semestres anteriores:
+
+![alt text](docs/imagenes/Horario3.png)
+
+
+
+---
 
 
 ### **Semaforo / Historial de  Materias:**
@@ -116,7 +145,7 @@ en el cuál el estudiante podra:
 ---
 
 Luego de que usuario al elegir la materia que quiere cambiar o 
-tomar una sugerencia puede darle a cancelar y generar, al darle generar lo llevara a:
+tomar una sugerencia puede darle a cancelar y generar, en añadir clase se vera:
 
 ![alt text](docs/imagenes/aceptar.png)
 
@@ -139,6 +168,127 @@ Si opta por aceptarla se le avisara sobre el estado de su solicitud:
 
 
 ![alt text](docs/imagenes/historial_solicitudes.png)
+
+---
+
+- *Ademas podra observar diagramas de barras y su historial de cambio al darle en esadisticas:*
+
+
+![alt text](docs/imagenes/estadistica.png)
+
+---
+
+## SEMANA 7
+
+---
+
+### **DashBoard Navegación de administracion y decanatura:**
+
+*Para las solicitudes se podra:*
+
+- Gestionar las solicitudes 
+- Consutar el número de solicitudes por facultad 
+- Estadisticas de solicitudes en general 
+
+*Para la gestion academica se podra:*
+
+- Consultar una alerta de solicitudes para los cupos 
+- Modificar los periodos de cambios 
+- Adminitracio de los grupos y materias
+
+
+![alt text](docs/imagenes/dashBoardAdmin.png)
+
+---
+
+### **Alertas:**
+
+Se podra consultar que materia y grupo estan por alcanzar la capacidad limite o si ya la alcanzaron
+
+![alt text](docs/imagenes/alertas.png)
+
+---
+
+### **Solicitudes por Facultad:**
+
+La decanatura podra revisar el número de solicitudes por facultad para
+poder saber cual es a la que le llegan mas solicitudes
+
+
+![alt text](docs/imagenes/sol_facultad.png)
+
+---
+
+### **Gestión Solicitudes por Decanatura:**
+
+Se encuentra:
+
+- Fecha y hora de la solicitud para asegurar la prioridad de llegada
+- El nombre del estudiante 
+- Y el estado de la solicitud y un caso exepcional se mostrara en rojo 🔴
+
+
+![alt text](docs/imagenes/gestion_solicitudes.png)
+
+---
+
+## Solicitudes normales:
+
+Se podra consultar la:
+
+Información del estudiante:
+  - Codigo, nombre, carrera y semestre
+  - El Horario del estudiante en el cual se podra ver si hay cruces de materias y las horas disponibles
+  - Un espacio de las materias a cambiar, y consultar el grupo, cupos, lista de espera y estado de la asignatura a cambiar
+  - El semaforo academico del estudiante del semestre actual
+  - Estadisticas de las solicitudes del estudiante 
+
+![alt text](docs/imagenes/detalleSol.png)
+
+---
+
+## Semaforo estudiantil:
+
+Información semaforo plan de estudios del semestre actual del estudiante
+
+![alt text](docs/imagenes/semaforo2.png)
+
+---
+
+## Solicitudes excepcionales:
+
+Esta solicitud se marcara en rojo para tenerla mayormente en cuenta en la 
+ventana de gestion de solicitudes y se podra ver la observacion con el texto
+y documentos que validen el caso de cambio.
+
+![alt text](docs/imagenes/excepcional.png)
+
+---
+
+##  Estaditicas solicitudes del estudiante:
+
+Se podra ver el historial de solicitudes del estudiante
+
+- Un diagrama de barras de las materias aprobadas, reprobadas y en curso
+- Y la tasa de aprobación de sus solicitudes de aprobacion y pendientes
+
+
+![alt text](docs/imagenes/estadistica.png)
+
+---
+
+##  Gestión Asignaturas y Grupos:
+
+Se podra hacer lo siguiente:
+
+- Especificar la asignatura a inscribir 
+- El Grupo 
+- Y establecer el cupo máximo 
+- Asignar un profesor
+- Asignar el horario
+- Ademas un apartado para consultar los grupos, maeterias, profesor, horario, capacidad y estado
+
+![alt text](docs/imagenes/gestion_asignaturas.png)
 
 ---
 
